@@ -1,0 +1,175 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
+
+.title {
+    font-weight: 900px;
+    padding-top: 30px;
+}
+
+.banner {
+    font-size: x-large;
+    text-align: center;
+    color: aliceblue;
+    padding: 20px;
+}
+
+header {
+    background-image: url('./images/donation6.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.btn {
+    padding: 15px 45px;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background-color: orangered;
+    color: aliceblue;
+    border: 0;
+
+}
+
+.donation {
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+
+.box {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+.tk {
+    border: 1px solid rgb(248, 245, 245);
+    padding: 50px;
+    margin-top: 30px;
+    background-color: aliceblue;
+    border-radius: 5px;
+
+}
+
+.tkk {
+    border: 3px solid orangered;
+    padding: 50px;
+    margin-top: 30px;
+    background-color: rgb(240, 211, 211);
+    border-radius: 5px;
+    color: orangered;
+
+}
+
+.others {
+    color: lightslategray;
+    text-align: center;
+
+}
+
+hr {
+    margin: 30px;
+}
+
+.plan {
+    text-align: center;
+    margin: 50px;
+}
+
+.plans {
+    display: flex;
+    gap: 35px;
+    margin: 20px;
+    padding: 25px;
+
+}
+
+.food {
+    background-color: lightpink;
+    border: 1px solid white;
+    padding: 80px;
+    border-radius: 5px;
+}
+
+.Education {
+    background-color: lightsalmon;
+    border: 1px solid white;
+    padding: 80px;
+    border-radius: 5px;
+}
+
+.shelter {
+    background-color: lightskyblue;
+    border: 1px solid white;
+    padding: 80px;
+    border-radius: 5px;
+}
+
+.lives {
+    display: flex;
+    margin: 40px;
+    gap: 30px;
+    align-items: center;
+}
+
+.des {
+    padding: 30px;
+}
+
+.livess {
+    display: flex;
+    margin: 50px;
+    gap: 30px;
+    padding: 30px;
+    align-items: center;
+}
+
+.last {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.border {
+    margin: 100px;
+    padding: 100px;
+    background-color: bisque;
+    text-align: center;
+
+}
+
+input {
+    height: 40px;
+    width: 40%;
+    border: 0;
+    background-color: darkgray;
+
+
+
+}
+
+.sub {
+    height: 40px;
+    width: 20%;
+    border: 0;
+    background-color: orangered;
+    color: white;
+
+    margin-left: -5px;
+
+}
+
+footer {
+    background-color: black;
+    padding: 100px;
+    text-align: center;
+    color: orangered;
+    font-style: italic;
+
+}
